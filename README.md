@@ -2,7 +2,7 @@
 ![LandingPage](LandingPage.png)
 - 🔭 I’m cybersecurity engineer who is passionate about writing scripts for automate computing tasks in entreprises, developping tools for helping troobleshooting of networks for example.
 - 🌱 I’m currently learning bash scripting and network automation.
-- 🌐 Prevously i was web developper. I'm at ease when time comes to create a web site with LARAVEL and PHP.
+- 🌐 Prevously i was web developper. I'm at ease when time comes to create a web site with LARAVEL and PHP. You will find some of my previous web project on my profile.
 <!--
 **MiguelGillesIT/MiguelGillesIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
