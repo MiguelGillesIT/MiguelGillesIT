@@ -1,6 +1,6 @@
 ## Hi, I'm Miguel Gilles 👋
 ![LandingPage](LandingPage.png)
-- 🔭 I’m cybersecurity engineer and software enjoyer. Passionate about writing scripts to automate computing tasks , developping tools that will help people do troobleshooting on network for example.
+- 🔭 I’m cybersecurity engineer and software enjoyer. I love writing scripts to automate tasks, developping tools that will help people do troobleshooting on network for example.
 - 🌱 I’m currently learning bash scripting and network automation.
 - 🌐 I was web developper. Yeah i'm at ease when time comes to create a web site with LARAVEL and PHP. You will find some of my previous web project on my profile.
 - 👯 I’m looking for new opportunities in cybersecurity and open to cooperation. Let me know if you want me to work together.
